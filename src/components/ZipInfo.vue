@@ -14,7 +14,7 @@
         </ion-item>
         <ion-item>
           <ion-label>
-            <strong>Latitutde:</strong>
+            <strong>Latitude:</strong>
             {{info['places'][0]['latitude']}}
           </ion-label>
         </ion-item>
